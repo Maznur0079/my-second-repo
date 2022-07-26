@@ -3,3 +3,10 @@ p{
     border: 15px solid red; 
     border-radius: 14px;
 }
+h1{
+    color: aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+    font-family: fantasy;
+    border: 5px solid yellow;
+}
