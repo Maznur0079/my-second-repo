@@ -1,4 +1,5 @@
 p{
     background-color: grey;
-    border: 15px solid red;
+    border: 15px solid red; 
+    border-radius: 14px;
 }
